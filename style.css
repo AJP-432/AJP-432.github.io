@@ -20,7 +20,7 @@ body {
 a {
   text-decoration: underline;
   color: var(--black);
-  transition: font-weight 0.2s;
+  transition: font-weight 0.1s;
 }
 
 a:hover {
